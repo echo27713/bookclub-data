@@ -39,3 +39,17 @@
 - **Cover (EN):** ![](https://covers.openlibrary.org/b/id/8918792-M.jpg)
 - **Title (KR):** _[Add Korean title manually]_
 - **Cover (KR):** _[Add Yes24 image URL manually]_
+
+---
+
+### Brave New World
+
+- **Author (EN):** Aldous Huxley
+- **Subtitle:**
+- **Book club date:** 2025-03-30
+- **Reading period:** 2025-03-01 to 2025-03-30
+- **Cover (EN):** ![](http://books.google.com/books/content?id=hRTtAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
+- **Title (KR):** _[Add Korean title manually]_
+- **Cover (KR):** _[Add Yes24 image URL manually]_
+
+---
