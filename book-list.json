@@ -1,13 +1,189 @@
 [
   {
+    "titleEN": null,
+    "subTitleEN": null,
+    "authorEN": null,
+    "coverEN": null,
+    "titleKR": "요즘 언니들의 갱년기 - 70년대생 여자 셋의 지극히 사적인 수다",
+    "subTitleKR": null,
+    "authorKR": "김도희, 유혜미, 임지인 (지은이)",
+    "coverKR": "https://image.aladin.co.kr/product/28171/23/cover200/k542835564_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281712336&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2026-02-01",
+    "readingPeriod": {
+      "start": "2026-01-03",
+      "end": "2026-02-01"
+    }
+  },
+  {
+    "titleEN": "Bad Therapy",
+    "subTitleEN": "Why the Kids Aren't Growing Up",
+    "authorEN": "Abigail Shrier",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9781800754140-L.jpg",
+    "titleKR": "부서지는 아이들 - 다정한 양육은 어떻게 아이를 망치는가",
+    "subTitleKR": null,
+    "authorKR": "애비게일 슈라이어 (지은이), 이수경 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/36281/48/cover200/8901294699_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=362814807&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2025-12-07",
+    "readingPeriod": {
+      "start": "2025-11-08",
+      "end": "2025-12-07"
+    }
+  },
+  {
+    "titleEN": null,
+    "subTitleEN": null,
+    "authorEN": null,
+    "coverEN": null,
+    "titleKR": "먼저 온 미래 - AI 이후의 세계를 경험한 사람들",
+    "subTitleKR": null,
+    "authorKR": "장강명 (지은이)",
+    "coverKR": "https://image.aladin.co.kr/product/36659/88/cover200/8962626608_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=366598823&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2025-11-02",
+    "readingPeriod": {
+      "start": "2025-10-04",
+      "end": "2025-11-02"
+    }
+  },
+  {
+    "titleEN": "Dancing with the Devil",
+    "subTitleEN": "Why Bad Feelings Make Life Good",
+    "authorEN": "Krista K. Thomason",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9780197673287-L.jpg",
+    "titleKR": "악마와 함께 춤을 - 시기, 질투, 분노는 어떻게 삶의 거름이 되는가",
+    "subTitleKR": null,
+    "authorKR": "크리스타 K. 토마슨 (지은이), 한재호 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/35408/73/cover200/8965966817_2.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=354087370&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2025-10-05",
+    "readingPeriod": {
+      "start": "2025-09-06",
+      "end": "2025-10-05"
+    }
+  },
+  {
+    "titleEN": "Stoner",
+    "subTitleEN": null,
+    "authorEN": "John Williams",
+    "coverEN": "http://books.google.com/books/content?id=6Yc-DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "titleKR": "스토너",
+    "subTitleKR": null,
+    "authorKR": "존 윌리엄스 (지은이), 김승욱 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/36582/41/cover200/8925573555_2.jpg",
+    "bookClubDate": "2025-09-07",
+    "readingPeriod": {
+      "start": "2025-08-09",
+      "end": "2025-09-07"
+    }
+  },
+  {
+    "titleEN": "The MANIAC",
+    "subTitleEN": null,
+    "authorEN": "Benjamin Labatut",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9780593654491-L.jpg",
+    "titleKR": "매니악",
+    "subTitleKR": null,
+    "authorKR": "벵하민 라바투트 (지은이), 송예슬 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/33279/35/cover200/8954697933_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=332793547&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2024-08-11",
+    "readingPeriod": {
+      "start": "2024-07-13",
+      "end": "2024-08-11"
+    }
+  },
+  {
+    "titleEN": "Culture: The Story of Us, From Cave Art to K-Pop",
+    "subTitleEN": null,
+    "authorEN": "Martin Puchner",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9780393868005-L.jpg",
+    "titleKR": "컬처, 문화로 쓴 세계사",
+    "subTitleKR": null,
+    "authorKR": "마틴 푸크너",
+    "coverKR": "https://image.aladin.co.kr/product/33345/79/cover500/k222938801_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=333457924",
+    "bookClubDate": "2024-07-07",
+    "readingPeriod": {
+      "start": "2024-06-08",
+      "end": "2024-07-07"
+    }
+  },
+  {
+    "titleEN": "Building",
+    "subTitleEN": "A Carpenter's Notes on Life & the Art of Good Work",
+    "authorEN": "Mark Ellison",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9780593449134-L.jpg",
+    "titleKR": "완벽에 관하여 - 훌륭한 것을 만들어내는 일에 대한 뉴욕 목수의 이야기",
+    "subTitleKR": null,
+    "authorKR": "마크 엘리슨 (지은이), 정윤미 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/33809/20/cover200/k062930585_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=338092098&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2024-05-31",
+    "readingPeriod": {
+      "start": "2024-05-02",
+      "end": "2024-05-31"
+    }
+  },
+  {
+    "titleEN": "Migrants",
+    "subTitleEN": "The Story of Us All",
+    "authorEN": "Sam Miller",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9781408713525-L.jpg",
+    "titleKR": "이주하는 인류 - 인구의 대이동과 그들이 써내려간 역동의 세계사",
+    "subTitleKR": null,
+    "authorKR": "샘 밀러 (지은이), 최정숙 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/32095/25/cover200/k622834900_2.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=320952568&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2024-05-05",
+    "readingPeriod": {
+      "start": "2024-04-08",
+      "end": "2024-05-05"
+    }
+  },
+  {
+    "titleEN": "Why We're Polarized",
+    "subTitleEN": null,
+    "authorEN": "Ezra Klein",
+    "coverEN": "https://covers.openlibrary.org/b/id/9280635-L.jpg",
+    "titleKR": "우리는 왜 서로를 미워하는가 - 편 가르기 시대 휘둘리지 않는 유권자를 위한 정당정치 안내서",
+    "subTitleKR": null,
+    "authorKR": "에즈라 클라인 (지은이), 황성연 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/29561/64/cover200/k292837252_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295616411&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2024-04-07",
+    "readingPeriod": {
+      "start": "2024-03-09",
+      "end": "2024-04-07"
+    }
+  },
+  {
+    "titleEN": "All the Beauty in the World",
+    "subTitleEN": "The Metropolitan Museum of Art and Me",
+    "authorEN": "Patrick Bringley",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9781982163310-L.jpg",
+    "titleKR": "나는 메트로폴리탄 미술관의 경비원입니다 - 경이로운 세계 속으로 숨어버린 한 남자의 이야기",
+    "subTitleKR": null,
+    "authorKR": "패트릭 브링리 (지은이), 김희정, 조현주 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/35235/90/cover200/8901276534_3.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=352359000&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2024-03-03",
+    "readingPeriod": {
+      "start": "2024-02-03",
+      "end": "2024-03-03"
+    }
+  },
+  {
     "titleEN": "The Five Dysfunctions of a Team",
-    "subTitleEN": "A Leadership Fable, 20th Anniversary Edition",
-    "authorEN": "Patrick M. Lencioni",
-    "coveren": "http://books.google.com/books/content?id=dsn3cgaaqbaj&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "subTitleEN": "A Leadership Fable",
+    "authorEN": "Patrick Lencioni",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9780739332573-L.jpg",
     "titleKR": "팀워크의 부활 - 실리콘밸리 최고의 경영 컨설턴트가 알려주는 팀이 빠지기 쉬운 5가지 함정",
     "subTitleKR": null,
     "authorKR": "페트릭 렌시오니 (지은이), 서진영 (옮긴이)",
     "coverKR": "https://image.aladin.co.kr/product/28039/35/cover200/k092734232_2.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=280393532&amp;partner=openAPI&amp;start=api",
     "bookClubDate": "2024-02-04",
     "readingPeriod": {
       "start": "2024-01-06",
