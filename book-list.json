@@ -19,6 +19,24 @@
     "titleEN": "Bad Therapy",
     "subTitleEN": "Why the Kids Aren't Growing Up",
     "authorEN": "Abigail Shrier",
+    "coverEN": "https://books.google.com/books/publisher/content?id=5FfUEAAAQBAJ&pg=PA5&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U07l0WmR9Djr8IoDcOwroVsBm5iRQ&w=1280",
+    "linkEN": "https://books.google.com/books/about/Bad_Therapy.html?hl=&id=5FfUEAAAQBAJ",
+    "isbn13": "9781800754140",
+    "titleKR": "부서지는 아이들 - 다정한 양육은 어떻게 아이를 망치는가",
+    "subTitleKR": null,
+    "authorKR": "애비게일 슈라이어 (지은이), 이수경 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/36281/48/cover200/8901294699_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=362814807&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2025-12-07",
+    "readingPeriod": {
+      "start": "2025-11-08",
+      "end": "2025-12-07"
+    }
+  },
+  {
+    "titleEN": "Bad Therapy",
+    "subTitleEN": "Why the Kids Aren't Growing Up",
+    "authorEN": "Abigail Shrier",
     "coverEN": "https://covers.openlibrary.org/b/isbn/9781800754140-L.jpg",
     "titleKR": "부서지는 아이들 - 다정한 양육은 어떻게 아이를 망치는가",
     "subTitleKR": null,
@@ -51,7 +69,9 @@
     "titleEN": "Dancing with the Devil",
     "subTitleEN": "Why Bad Feelings Make Life Good",
     "authorEN": "Krista K. Thomason",
-    "coverEN": "https://covers.openlibrary.org/b/isbn/9780197673287-L.jpg",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9780197673287-L.jpg?default=false",
+    "linkEN": "https://books.google.com/books/about/Dancing_with_the_Devil.html?hl=&id=ddbUEAAAQBAJ",
+    "isbn13": "9780197673287",
     "titleKR": "악마와 함께 춤을 - 시기, 질투, 분노는 어떻게 삶의 거름이 되는가",
     "subTitleKR": null,
     "authorKR": "크리스타 K. 토마슨 (지은이), 한재호 (옮긴이)",
@@ -67,11 +87,14 @@
     "titleEN": "Stoner",
     "subTitleEN": null,
     "authorEN": "John Williams",
-    "coverEN": "https://books.google.com/books/content?id=6Yc-DwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&source=gbs_api",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9781590179284-L.jpg?default=false",
+    "linkEN": "https://books.google.com/books/about/Stoner.html?hl=&id=6Yc-DwAAQBAJ",
+    "isbn13": "9781590179284",
     "titleKR": "스토너",
     "subTitleKR": null,
     "authorKR": "존 윌리엄스 (지은이), 김승욱 (옮긴이)",
-    "coverKR": "https://image.aladin.co.kr/product/36582/41/cover200/8925573555_2.jpg",
+    "coverKR": "https://image.aladin.co.kr/product/5100/19/cover200/8925554992_3.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=51001915&amp;partner=openAPI&amp;start=api",
     "bookClubDate": "2025-09-07",
     "readingPeriod": {
       "start": "2025-08-09",
@@ -328,7 +351,6 @@
       "end": "2024-05-31"
     }
   },
-  
   {
     "titleEN": "Migrants",
     "subTitleEN": "The Story of Us All",
