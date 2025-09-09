@@ -79,6 +79,204 @@
     }
   },
   {
+    "titleEN": "So Late in the Day",
+    "subTitleEN": null,
+    "authorEN": "Claire Keegan",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9780571382019-L.jpg?default=false",
+    "linkEN": "https://books.google.com/books/about/So_Late_in_the_Day.html?hl=&id=iaOmzwEACAAJ",
+    "isbn13": "9780571382019",
+    "titleKR": "너무 늦은 시간",
+    "subTitleKR": null,
+    "authorKR": "클레어 키건 (지은이), 허진 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/36709/50/cover200/k962030793_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=367095094&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2025-08-03",
+    "readingPeriod": {
+      "start": "2025-07-05",
+      "end": "2025-08-03"
+    }
+  },
+  {
+    "titleEN": "Why Fish Don't Exist",
+    "subTitleEN": "A Story of Loss, Love, and the Hidden Order of Life",
+    "authorEN": "Lulu Miller",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9781501160349-L.jpg?default=false",
+    "linkEN": "https://books.google.com/books/about/Why_Fish_Don_t_Exist.html?hl=&id=kkoiEAAAQBAJ",
+    "isbn13": "9781501160349",
+    "titleKR": "물고기는 존재하지 않는다 - 상실, 사랑 그리고 숨어 있는 삶의 질서에 관한 이야기",
+    "subTitleKR": null,
+    "authorKR": "룰루 밀러 (지은이), 정지인 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/28465/73/cover200/k092835920_2.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284657330&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2025-07-06",
+    "readingPeriod": {
+      "start": "2025-06-07",
+      "end": "2025-07-06"
+    }
+  },
+  {
+    "titleEN": "How the World Ran Out of Everything",
+    "subTitleEN": "Inside the Global Supply Chain",
+    "authorEN": "Peter S. Goodman",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9780063257931-L.jpg?default=false",
+    "linkEN": "https://play.google.com/store/books/details?id=3sDWEAAAQBAJ",
+    "isbn13": "9780063257931",
+    "titleKR": "공급망 붕괴의 시대 - 반도체칩부터 생필품까지, 글로벌 공급망의 숨겨진 이야기",
+    "subTitleKR": null,
+    "authorKR": "피터 S. 굿맨 (지은이), 장용원 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/35570/5/cover200/8984078581_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=355700515&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2025-06-01",
+    "readingPeriod": {
+      "start": "2025-05-03",
+      "end": "2025-06-01"
+    }
+  },
+  {
+    "titleEN": "Conclave",
+    "subTitleEN": "A novel",
+    "authorEN": "Robert Harris",
+    "coverEN": "https://books.google.com/books/publisher/content?id=qesFEQAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2oSLQr81W-cWkgacCQqGwSMb048Q&w=1280",
+    "linkEN": "https://books.google.com/books/about/Conclave.html?hl=&id=qesFEQAAQBAJ",
+    "isbn13": "9780735273344",
+    "titleKR": "콘클라베 (영화 특별판) - 신의 선택을 받은 자",
+    "subTitleKR": null,
+    "authorKR": "로버트 해리스 (지은이), 조영학 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/35723/82/cover200/k712036334_2.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=357238285&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2025-05-11",
+    "readingPeriod": {
+      "start": "2025-04-12",
+      "end": "2025-05-11"
+    }
+  },
+  {
+    "titleEN": "Brave New World",
+    "subTitleEN": null,
+    "authorEN": "Aldous Huxley",
+    "coverEN": "https://books.google.com/books/content?id=Nzat4dfTL0gC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0J-FInAtuWp_h_OTxRIhtnnyVxfQ&w=1280",
+    "linkEN": "https://www.google.com/books/edition/_/Nzat4dfTL0gC?hl=en&gbpv=0",
+    "isbn13": "9788877546647",
+    "titleKR": "멋진 신세계",
+    "subTitleKR": null,
+    "authorKR": "올더스 헉슬리 (지은이), 이덕형 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/35198/86/cover200/8931024029_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=351988671&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2025-03-30",
+    "readingPeriod": {
+      "start": "2025-03-01",
+      "end": "2025-03-30"
+    }
+  },
+  {
+    "titleEN": "The Tragedy of Macbeth",
+    "subTitleEN": null,
+    "authorEN": "William Shakespeare",
+    "coverEN": "https://books.google.com/books/content?id=LSxXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "linkEN": "https://play.google.com/store/books/details?id=LSxXAAAAYAAJ",
+    "isbn13": null,
+    "titleKR": "맥베스",
+    "subTitleKR": null,
+    "authorKR": "윌리엄 셰익스피어 (지은이), 최종철 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/47/66/cover200/s442934786_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=476678&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2025-03-01",
+    "readingPeriod": {
+      "start": "2025-01-31",
+      "end": "2025-03-01"
+    }
+  },
+  {
+    "titleEN": "The Black Swan: Second Edition",
+    "subTitleEN": "The Impact of the Highly Improbable Fragility\"",
+    "authorEN": "Nassim Nicholas Taleb",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9780679604181-L.jpg?default=false",
+    "linkEN": "https://play.google.com/store/books/details?id=GSBcQVd3MqYC",
+    "isbn13": "9780679604181",
+    "titleKR": "블랙 스완 - 위험 가득한 세상에서 안전하게 살아남기, 최신 개정증보판",
+    "subTitleKR": null,
+    "authorKR": "나심 니콜라스 탈레브 (지은이), 차익종, 김현구 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/14327/99/cover200/8990247675_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=143279902&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2025-02-09",
+    "readingPeriod": {
+      "start": "2025-01-11",
+      "end": "2025-02-09"
+    }
+  },
+  {
+    "titleEN": "The Anxious Generation",
+    "subTitleEN": "How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness",
+    "authorEN": "Jonathan Haidt",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9780593655047-L.jpg?default=false",
+    "linkEN": "https://play.google.com/store/books/details?id=I03HEAAAQBAJ",
+    "isbn13": "9780593655047",
+    "titleKR": "불안 세대 - 디지털 세계는 우리 아이들을 어떻게 병들게 하는가",
+    "subTitleKR": null,
+    "authorKR": "조너선 하이트 (지은이), 이충호 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/34372/90/cover200/8901285894_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=343729075&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2025-01-05",
+    "readingPeriod": {
+      "start": "2024-12-07",
+      "end": "2025-01-05"
+    }
+  },
+  {
+    "titleEN": "The Art Thief",
+    "subTitleEN": "A True Story of Love, Crime, and a Dangerous Obsession",
+    "authorEN": "Michael Finkel",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9780735278974-L.jpg?default=false",
+    "linkEN": "https://books.google.com/books/about/The_Art_Thief.html?hl=&id=8278EAAAQBAJ",
+    "isbn13": "9780735278974",
+    "titleKR": "예술 도둑 - 예술, 범죄, 사랑 그리고 욕망에 관한 위험하고 매혹적인 이야기",
+    "subTitleKR": null,
+    "authorKR": "마이클 핀클 (지은이), 염지선 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/34611/65/cover200/k582933888_3.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=346116543&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2024-12-08",
+    "readingPeriod": {
+      "start": "2024-11-09",
+      "end": "2024-12-08"
+    }
+  },
+  {
+    "titleEN": "Foster",
+    "subTitleEN": null,
+    "authorEN": "Claire Keegan",
+    "coverEN": "https://play.google.com/books/publisher/content/images/frontcover/WItvEAAAQBAJ?fife=w480-h690",
+    "linkEN": "https://books.google.com/books/about/Foster.html?hl=&id=IMq4zwEACAAJ",
+    "isbn13": "9780802160928",
+    "titleKR": "맡겨진 소녀",
+    "subTitleKR": null,
+    "authorKR": "클레어 키건 (지은이), 허진 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/31555/26/cover200/k832832758_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315552626&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2024-11-09",
+    "readingPeriod": {
+      "start": "2024-10-10",
+      "end": "2024-11-09"
+    }
+  },
+  {
+    "titleEN": "Material World",
+    "subTitleEN": "The Six Raw Materials That Shape Modern Civilization",
+    "authorEN": "Ed Conway",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9780593467428-L.jpg?default=false",
+    "linkEN": "https://books.google.com/books/about/Material_World.html?hl=&id=_olEEQAAQBAJ",
+    "isbn13": "9780593467428",
+    "titleKR": "물질의 세계 - 6가지 물질이 그려내는 인류 문명의 대서사시",
+    "subTitleKR": null,
+    "authorKR": "에드 콘웨이 (지은이), 이종인 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/33478/66/cover200/k992938150_3.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=334786620&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2024-09-08",
+    "readingPeriod": {
+      "start": "2024-08-10",
+      "end": "2024-09-08"
+    }
+  },
+  {
     "titleEN": "The MANIAC",
     "subTitleEN": null,
     "authorEN": "Benjamin Labatut",
