@@ -4,6 +4,24 @@
     "subTitleEN": null,
     "authorEN": null,
     "coverEN": null,
+    "linkEN": null,
+    "isbn13": null,
+    "titleKR": "다시 만날 세계에서 - 내란 사태에 맞서고 사유하는 여성들",
+    "subTitleKR": null,
+    "authorKR": "강유정, 김후주, 오세연, 유선혜, 이슬기, 이하나, 임지은, 전승민, 정보라 (지은이)",
+    "coverKR": "https://image.aladin.co.kr/product/35949/41/cover200/k912037802_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=359494164&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2026-03-01",
+    "readingPeriod": {
+      "start": "2026-01-31",
+      "end": "2026-03-01"
+    }
+  },
+  {
+    "titleEN": null,
+    "subTitleEN": null,
+    "authorEN": null,
+    "coverEN": null,
     "titleKR": "요즘 언니들의 갱년기 - 70년대생 여자 셋의 지극히 사적인 수다",
     "subTitleKR": null,
     "authorKR": "김도희, 유혜미, 임지인 (지은이)",
@@ -13,6 +31,24 @@
     "readingPeriod": {
       "start": "2026-01-03",
       "end": "2026-02-01"
+    }
+  },
+  {
+    "titleEN": "Atomic Habits",
+    "subTitleEN": "An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "authorEN": "James Clear",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9781804220207-L.jpg?default=false",
+    "linkEN": "https://books.google.com/books/about/Atomic_Habits.html?hl=&id=tVX00AEACAAJ",
+    "isbn13": "9781804220207",
+    "titleKR": "아주 작은 습관의 힘 (50만 부 기념 스페셜 에디션) - 최고의 변화는 어떻게 만들어지는가",
+    "subTitleKR": null,
+    "authorKR": "제임스 클리어 (지은이), 이한이 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/37944/74/cover200/k672033454_3.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=379447436&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2026-01-03",
+    "readingPeriod": {
+      "start": "2025-12-05",
+      "end": "2026-01-03"
     }
   },
   {
