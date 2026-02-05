@@ -1,4 +1,23 @@
 [
+
+  {
+    "titleEN": "The Handmaid's Tale",
+    "subTitleEN": null,
+    "authorEN": "Margaret Atwood",
+    "coverEN": "https://covers.openlibrary.org/b/isbn/9780771008795-L.jpg?default=false",
+    "linkEN": "https://books.google.com/books/about/The_Handmaid_s_Tale.html?hl=&id=cRPKOzWlOfUC",
+    "isbn13": "9780771008795",
+    "titleKR": "시녀 이야기 (리커버 일반판, 무선)",
+    "subTitleKR": null,
+    "authorKR": "마거릿 애트우드 (지은이), 김선형 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/14334/48/cover200/k792532049_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=143344865&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2026-05-03",
+    "readingPeriod": {
+      "start": "2026-04-04",
+      "end": "2026-05-03"
+    }
+  },
   {
     "titleEN": "The Ageless Brain",
     "subTitleEN": "How to Sharpen and Protect Your Mind for a Lifetime",
