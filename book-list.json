@@ -1,5 +1,23 @@
 [
   {
+    "titleEN": "The Power of Geography",
+    "subTitleEN": "Ten Maps That Reveal the Future of Global Politics",
+    "authorEN": "Tim Marshall",
+    "coverEN": "https://books.google.com/books/content?id=gCb5zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "linkEN": "https://books.google.com/books/about/The_Power_of_Geography.html?hl=&id=gCb5zQEACAAJ",
+    "isbn13": "9781783965953",
+    "titleKR": "지리의 힘 2 - 지리는 어떻게 나라의 운명을, 세계의 분쟁을, 우리의 선택을 좌우하는가",
+    "subTitleKR": null,
+    "authorKR": "팀 마샬 (지은이), 김미선 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/29137/3/cover200/8993178984_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=291370373&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2026-06-14",
+    "readingPeriod": {
+      "start": "2026-05-04",
+      "end": "2026-06-14"
+    }
+  },
+  {
     "titleEN": "The Handmaid's Tale",
     "subTitleEN": null,
     "authorEN": "Margaret Atwood",
