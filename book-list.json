@@ -1,5 +1,41 @@
 [
   {
+    "titleEN": null,
+    "subTitleEN": null,
+    "authorEN": null,
+    "coverEN": null,
+    "linkEN": null,
+    "isbn13": null,
+    "titleKR": "가족이라는 사치 - 가족을 이루는 삶이 특별해진 시대의 가족",
+    "subTitleKR": null,
+    "authorKR": "진미정 (지은이)",
+    "coverKR": "https://image.aladin.co.kr/product/38888/90/cover200/k752137406_2.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=388889017&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2026-08-02",
+    "readingPeriod": {
+      "start": "2026-07-13",
+      "end": "2026-08-02"
+    }
+  },
+  {
+    "titleEN": "The Man from the Future",
+    "subTitleEN": "The Visionary Ideas of John von Neumann",
+    "authorEN": "Ananyo Bhattacharya",
+    "coverEN": "https://books.google.com/books/content?id=SmE3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "linkEN": "https://play.google.com/store/books/details?id=SmE3EAAAQBAJ",
+    "isbn13": "9781324004004",
+    "titleKR": "미래에서 온 남자 폰 노이만 - 20세기 가장 혁명적인 인간, 그리고 그가 만든 21세기",
+    "subTitleKR": null,
+    "authorKR": "아난요 바타차리야 (지은이), 박병철 (옮긴이)",
+    "coverKR": "https://image.aladin.co.kr/product/32444/92/cover200/8901275163_1.jpg",
+    "linkKR": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=324449215&amp;partner=openAPI&amp;start=api",
+    "bookClubDate": "2026-07-12",
+    "readingPeriod": {
+      "start": "2026-06-15",
+      "end": "2026-07-12"
+    }
+  },
+  {
     "titleEN": "The Power of Geography",
     "subTitleEN": "Ten Maps That Reveal the Future of Global Politics",
     "authorEN": "Tim Marshall",
